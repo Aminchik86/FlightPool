@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url(../img/bg/samolet-passazhirskij-avialajner-vysota-nebo-polet-more-ogni-aeroporta-gorod-vecher-krasivyj-fon-razmytost-boke-oboi.jpg);
+    background-repeat: no-repeat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+
+.list-menu ul {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    width: 1200px;
+    margin-left: 400px;
+    font-size: 34px;
+    border: 2px solid #000;
+    list-style-type: none;
+}
+
+#boss {
+    display: flex;
+    color: #fff;
+    text-decoration: none;
+}
+
+#boss:hover {
+    color: #000
+}
+
+#boss:active {
+    color: #808080;
+}
+
+.logo img {
+    margin-top: 20px;
+    display: flex;
+    margin-left: 25px;
+}
+
+#trey {
+    font-size: 39px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 34px;
+}
+
+#tray123 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 6px;
+}
+
+#tray1234 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-right: 165px;
+}
+
+hr {
+    color: #fff;
+}
+
+.forme {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+
+#text {
+    color: #fff;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+li a{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+#logotipe {
+    display: flex;
+    margin-bottom: 15px;
+}

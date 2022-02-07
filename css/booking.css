@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+}
+
+.header { 
+    background: url(../img/bg/348fa22079e5892dd5a2f383c3fe0ef9-1024x640.jpg); 
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+.logo {
+    display: flex;
+    justify-content: left;
+}
+
+.table ul {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    margin-left: 170px;
+    font-size: 35px;
+    margin-top: 50px;
+    list-style-type: none;
+}
+
+#boss {
+    color: #000;
+    text-decoration: none;
+
+}
+
+#boss:hover {
+    color: #fff;
+}
+
+#boss:active {
+    color: #808080;
+    font-size: 40px;
+}
+
+.input {
+    margin-left: 650px;
+    margin-top: 20px;
+    border: 3px solid #000;
+    width: 340px;
+    font-size: 50px;
+    padding: 15px;
+    background-color: #ccffff;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-left: 80px;
+    margin-bottom: 45px;
+}
+
